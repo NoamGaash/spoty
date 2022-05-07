@@ -1,0 +1,24 @@
+{
+  "name": "spoty",
+  "version": "1.0.0",
+  "description": "Smart Litterbox Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoamGaash/spoty.git"
+  },
+  "keywords": [
+    "Cats",
+    "Litterbox",
+    "Poop"
+  ],
+  "author": "Noam Gaash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoamGaash/spoty/issues"
+  },
+  "homepage": "https://github.com/NoamGaash/spoty#readme"
+}
